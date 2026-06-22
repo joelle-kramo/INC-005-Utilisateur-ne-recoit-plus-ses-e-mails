@@ -79,13 +79,13 @@ outlook.exe /resetfolders
 - Supprimer ou archiver les anciens messages
 - Vider les éléments supprimés
 
-## Résultat :
+## Résultat
 
 - Réception des e-mails rétablie
 - Synchronisation Outlook fonctionnelle
 - Boîte aux lettres opérationnelle
 
-## Compétences démontrées :
+## Compétences démontrées
 
 - Support utilisateur
 - Microsoft Outlook
